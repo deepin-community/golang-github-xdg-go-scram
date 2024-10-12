@@ -1,5 +1,24 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-xdg-go-scram (1.1.2-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release.
+  * Switch to Standards-Version 4.6.2 (no changes needed).
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Guillem Jover <gjover@sipwise.com>  Sat, 09 Sep 2023 01:07:30 +0200
+
+golang-github-xdg-go-scram (1.1.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Guillem Jover <gjover@sipwise.com>  Fri, 11 Mar 2022 20:12:52 +0100
+
+golang-github-xdg-go-scram (1.0.2-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Guillem Jover <gjover@sipwise.com>  Mon, 13 Dec 2021 17:57:19 +0100
+
+golang-github-xdg-go-scram (1.0.2-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1001026)
+
+ -- Guillem Jover <gjover@sipwise.com>  Thu, 02 Dec 2021 21:57:54 +0100
